@@ -1,0 +1,2 @@
+Hello, this is the content to be written to the file.export as output.txt
+This is update to file output.txt
